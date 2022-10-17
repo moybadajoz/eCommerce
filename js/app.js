@@ -16,7 +16,50 @@ const productData = [
         name: 'chilling mood',
         image: 'img3.jpg',
         des: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur rem perspiciatis quis ducimus voluptate deserunt!'
-    }
+    },
+    {
+        index: '04',
+        name: 'Daily outfit',
+        image: 'img4.jpg',
+        des: 'Descripcion de producto 4'
+    },
+    {
+        index: '05',
+        name: 'Pasion por la moda',
+        image: 'img5.jpg',
+        des: '[Inserte descripcion de producto 5]'
+    },
+    {
+        index: '06',
+        name: 'Moda de la temporada',
+        image: 'img6.jpg',
+        des: 'Aqui deberia de estar la descripcion del producto 6'
+    },
+    {
+        index: '07',
+        name: 'Porque tu lo vales',
+        image: 'img7.jpg',
+        des: 'A alguien se le olvido poner la descripcion del producto 7'
+    },
+    {
+        index: '08',
+        name: 'Confort',
+        image: 'img8.jpg',
+        des: 'Profe se me acaba la creatividad'
+    },
+    {
+        index: '09',
+        name: 'Titulo cualquiera',
+        image: 'img9.jpg',
+        des: 'Descripcion de producto 9: error 404 no found'
+    },
+    {
+        index: '10',
+        name: '[generic title]',
+        image: 'img10.jpg',
+        des: 'descripcion cualquiera a falta de lorem'
+    },
+
 ]
 
 const nxtBtn = document.querySelector('.nxt-btn')
